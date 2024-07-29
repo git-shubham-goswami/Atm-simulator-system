@@ -10,7 +10,7 @@ Cash Withdrawal: Withdraw funds from the account.
 Deposit Funds: Add money to the account.
 Transaction History: View a history of transactions.
 
-Installation
+<h1>Installation</h1>
 
 1.Clone the Repository:
 git clone https://github.com/yourusername/atm-simulator-system.git
