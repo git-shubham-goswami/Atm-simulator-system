@@ -1,4 +1,4 @@
-# atm-simulator-system
+# Atm-simulator-system
 
 Description
 The ATM Simulator System is a Java-based application designed to simulate the functionality of an Automated Teller Machine (ATM). It utilizes Java Swing for the user interface, MySQL for database management, and JDBC for database connectivity. The system allows users to perform basic banking transactions such as checking account balance, depositing funds, and withdrawing cash.
@@ -35,20 +35,32 @@ java -cp target/atm-simulator-system-1.0.jar com.yourpackage.Main
 
 <br>
 <h1>Usage</h1>
+
 1.Launch the application.
+
 2.Log in using the provided credentials.
+
 3.Use the GUI to perform various banking operations.
 
 <br>
 <h1>Contributing</h1>
+
 Contributions are welcome! Please follow these guidelines to contribute:
+
 1.Fork the repository.
+
 2.Create a new branch for your feature or bug fix.
+
 3.Commit your changes and push to your branch.
+
 4.Open a pull request with a detailed description of your changes.
 <br>
 <h1>Acknowledgements</h1>
+
 Java: Programming language used for development.
+
 Swing: For creating the graphical user interface.
+
 MySQL: Database management system.
+
 JDBC: For database connectivity.
