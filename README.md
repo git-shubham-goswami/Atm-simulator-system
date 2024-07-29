@@ -13,7 +13,7 @@ Transaction History: View a history of transactions.
 <h1>Installation</h1>
 
 1.Clone the Repository:
-git clone https://github.com/yourusername/atm-simulator-system.git
+git clone https://github.com/git-shubham-goswami/atm-simulator-system.git
 
 2.Set Up MySQL Database:
 Create a new MySQL database and user for the application.
@@ -33,20 +33,21 @@ mvn clean install
 Execute the main class to start the application:
 java -cp target/atm-simulator-system-1.0.jar com.yourpackage.Main
 
-
-Usage
+<br>
+<h1>Usage</h1>
 1.Launch the application.
 2.Log in using the provided credentials.
 3.Use the GUI to perform various banking operations.
 
-Contributing
+<br>
+<h1>Contributing</h1>
 Contributions are welcome! Please follow these guidelines to contribute:
 1.Fork the repository.
 2.Create a new branch for your feature or bug fix.
 3.Commit your changes and push to your branch.
 4.Open a pull request with a detailed description of your changes.
-
-Acknowledgements
+<br>
+<h1>Acknowledgements</h1>
 Java: Programming language used for development.
 Swing: For creating the graphical user interface.
 MySQL: Database management system.
