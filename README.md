@@ -32,7 +32,6 @@ mvn clean install
 5.Run the Application:
 Execute the main class to start the application:
 java -cp target/atm-simulator-system-1.0.jar com.yourpackage.Main
-
 <br>
 <h1>Usage</h1>
 
@@ -41,7 +40,6 @@ java -cp target/atm-simulator-system-1.0.jar com.yourpackage.Main
 2.Log in using the provided credentials.
 
 3.Use the GUI to perform various banking operations.
-
 <br>
 <h1>Contributing</h1>
 
